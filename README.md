@@ -47,7 +47,8 @@ DKK (Danish Krone)
 EUR (Euro)
 
 Screenshot
-(Add a screenshot of the application here if available)
+<img width="749" height="435" alt="image" src="https://github.com/user-attachments/assets/bcedd58a-2728-4564-bfd8-0e082ff5d32d" />
+
 
 Notes
 Requires an active internet connection for real-time rates.
